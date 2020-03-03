@@ -6,7 +6,7 @@ Docker Image for [compose/transporter](https://github.com/compose/transporter).
 
 The following Docker Image tags are supported.
 
-* [`latest` (Dockerfile)](https://hub.docker.com/r/dongnguyenvie/transporter)
+* [`latest` (Dockerfile)](https://hub.docker.com/r/dongnguyenvie/public/tags)
 
 ## What is Transporter
 
